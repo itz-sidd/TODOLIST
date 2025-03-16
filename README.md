@@ -9,7 +9,6 @@ This is a simple To-Do List web application that allows users to:
 
 Features
 - Interactive UI with a modern design
-- Uses HTML, CSS, and JavaScript for front-end functionality
 - Task filtering to show only completed or pending tasks
 
  How to Use
